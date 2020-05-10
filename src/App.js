@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import Movie from './Movies';
+import Movie from './components/Movies';
 import './App.scss';
 
 class App extends React.Component {
